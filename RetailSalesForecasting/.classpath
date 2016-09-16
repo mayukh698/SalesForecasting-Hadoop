@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JSF 2.2 (Mojarra 2.2.0)">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+			<attribute name="owner.project.facets" value="jst.jsf"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/mayuk_000/Downloads/Jars/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mayuk_000/Downloads/Jars/commons-chain.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mayuk_000/Downloads/Jars/commons-digester.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mayuk_000/Downloads/Jars/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mayuk_000/Downloads/Jars/org.apache.commons.collections.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mayuk_000/Downloads/Jars/servlet-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jsf-api.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/jstl.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hadoop-common-2.7.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hadoop-mapreduce-client-common-2.7.1.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/hadoop-mapreduce-client-core-2.7.1.jar"/>
+	<classpathentry kind="lib" path="lib/opencsv-3.6.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
